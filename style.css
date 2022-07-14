@@ -1,0 +1,17 @@
+h1, p {
+  font-family: Lato;
+}
+ul {
+  padding: 0;
+  margin:10px 0 0 0;
+}
+li {
+  list-style-type: none;
+  padding: 20px;
+  margin: 5px;
+  background-color:rgba(5, 53, 95, 0.411);
+  border-radius: 19px;
+}
+form {
+  margin: 10px;
+}
